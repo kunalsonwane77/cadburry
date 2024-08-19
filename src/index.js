@@ -2,4 +2,4 @@ import { createRoot } from "react-dom/client";
 
 const root = createRoot(document.getElementById("root"));
 
-root.render(<h1>Cadurry </h1>)
+root.render(<h1>sweet  Cadurry </h1>)
